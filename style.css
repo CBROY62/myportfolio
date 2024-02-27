@@ -29,6 +29,7 @@
     background-color: black;
     background-size: cover;
     background-image: url(amazon10.png);
+     mix-blend-mode: darken;
 
 }
 
